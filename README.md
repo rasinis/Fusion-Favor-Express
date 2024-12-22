@@ -29,3 +29,6 @@ To get a local copy up and running, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/rasinis/Fusion-Flavour-Express.git
+## Project Demo
+
+[![Watch the Video](https://drive.google.com/uc?export=view&id=1CVN4ARChiJPq-dgqG3yhZs_qnDxM8neg)](https://drive.google.com/file/d/1qHCPfvURt_xerGxt1_0vPDSOLIQlD6hH/view?usp=drive_link)
